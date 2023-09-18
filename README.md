@@ -1,1 +1,4 @@
 # Linear-programming-of-Farm-Planning
+
+# Problem statement:
+This is a farm planning problem, by formulating this as a linear programming problem, the farmer can determine the optimal number of heifers and dairy cows to sell, ensuring an efficient balance between the new-born and sales. The model also should take into account other constraints. For example, the available land for grazing and crop cultivation, the amount of grains and sugar beets to be grown to guide the farmer in making informed decisions, the allocation of acreage for grain and sugar beet cultivation and the maximum of cow housing number. Moreover, we should take into account some fixed costs, like the buy-in price for sugar beet/ grains, equipment costs, labor costs, etc. At last, our objective of this project is to maximize the profit we can approach by considering all these factors to build a linear programming model.
